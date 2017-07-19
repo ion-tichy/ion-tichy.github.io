@@ -1,0 +1,58 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#pip_range_table table{
+    width: 100%;
+}
+
+.gridline line{
+    stroke: lightgrey;
+    stroke-opacity: 0.7;
+    shape-rendering: crisp-edges;
+}
+
+.gridline path{
+    stroke-width: 0;
+}
+
+.hidden_element{
+    display: none;
+}
+
+#pip_range{
+    width: 100%;
+}
+
+.pip_box{
+    border: 1px solid black;
+    display: inline-block;
+
+}
+
+.bar{
+    fill: steelblue;
+}
+
+div.bar_tooltip{
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 56px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+

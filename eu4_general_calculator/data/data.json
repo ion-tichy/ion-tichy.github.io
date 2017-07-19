@@ -1,0 +1,73 @@
+{
+  "nations": [
+    {
+      "1": [
+        "Ajuuraan",
+        "Albania",
+        "Bohemia",
+        "Carib",
+        "Charrua",
+        "Jan Mayen",
+        "Jerusalem",
+        "Kazan",
+        "Mexico",
+        "Ming",
+        "Nepal",
+        "Perm",
+        "Romania",
+        "Scotland",
+        "Smolensk",
+        "Sweden",
+        "Tapuia",
+        "Wallachia",
+        "Zaporozhie"
+      ]
+    },
+    {
+      "2": [
+        "Air",
+        "Lithuania",
+        "Shawnee"
+      ]
+    }
+  ],
+  "policies": [
+    {
+      "1": [
+        [
+          "expansion",
+          "quality"
+        ],
+        [
+          "innovative",
+          "offensive"
+        ],
+        [
+          "quantity",
+          "exploration"
+        ],
+        [
+          "humanist",
+          "quantity"
+        ]
+      ]
+    }
+  ],
+  "ideas": [
+    { "0": [
+        "expansion",
+        "quality",
+        "innovative",
+        "quantity",
+        "exploration",
+        "humanist"
+      ],
+      "1": [
+        "defensive"
+      ],
+      "2": [
+        "offensive"
+      ]
+    }
+  ]
+}
